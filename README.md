@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @satur-n
+- 👀 I’m interested in termux
+- 🌱 I’m currently trying to learn termux (but none found to teach)
+- 💞️ I’m looking to collaborate on irdk anything
+- 📫 Anyone is welcome to teach me termux, discord- saturn#7903
